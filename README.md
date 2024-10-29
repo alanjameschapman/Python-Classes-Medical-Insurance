@@ -2,12 +2,6 @@
 
 This project is a Python-based application designed to manage and analyze medical insurance data. It leverages object-oriented programming principles to create a robust and scalable solution for handling various insurance-related tasks.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-
 ## Introduction
 
 The Python Classes Medical Insurance project aims to simplify the management of medical insurance data. By using Python classes, the project encapsulates data and functionality, making the code more modular and easier to maintain.
